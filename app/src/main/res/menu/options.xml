@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <!--ICON MENU OPTIONS-->
+  <item
+    android:id="@+id/menu_demographics"
+    android:icon="@drawable/ic_people_white_24dp"
+    android:title="Demographics"
+    app:showAsAction="always"/>
+
+  <item
+    android:id="@+id/menu_tweets"
+    android:icon="@drawable/ic_textsms_white_24dp"
+    android:title="Tweets"
+    app:showAsAction="always"/>
+
+  <item
+    android:id="@+id/menu_transportation"
+    android:icon="@drawable/ic_transport_white_24dp"
+    android:title="Transportation"
+    app:showAsAction="always"/>
+
+
+  <!--DROPDOWN PLACE CATEGORIES-->
+  <!-- Hiding this category as it is too generic, although 8770 entries are listed as this.
+  <item
+    android:id="@+id/menu_cat_local"
+    android:title="Local businesses"
+    app:showAsAction="never"/>-->
+
+  <item
+    android:id="@+id/menu_cat_restaurant"
+    android:title="Restaurant/cafe"
+    app:showAsAction="never"/>
+
+  <item
+    android:id="@+id/menu_cat_spas"
+    android:title="Spas/beauty/personal care"
+    app:showAsAction="never"/>
+
+  <item
+    android:id="@+id/menu_cat_shopping"
+    android:title="Shopping/retail"
+    app:showAsAction="never"/>
+
+  <item
+    android:id="@+id/menu_cat_auto"
+    android:title="Automotive"
+    app:showAsAction="never"/>
+
+</menu>

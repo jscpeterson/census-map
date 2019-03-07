@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSelectedPolygon">#443F51B5</color>
+    <color name="male1">#00BBFF</color>
+    <color name="male2">#0099FF</color>
+    <color name="male3">#0066FF</color>
+    <color name="male4">#0033FF</color>
+    <color name="male5">#0000FF</color>
+    <color name="female1">#FF66FF</color>
+    <color name="female2">#FF22FF</color>
+    <color name="female3">#FF00BB</color>
+    <color name="female4">#FF0088</color>
+    <color name="female5">#FF0033</color>
+</resources>

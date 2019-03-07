@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Census Map</string>
+  <string name="no_feature_selected">No census tract selected.</string>
+  <string name="no_results_format">No results of type %s found in %s.</string>
+  <string name="no_tweets_found">No tweets found!</string>
+  <string name="pie_description_format_female">Female population: %.2f%%\ \ \ Median age: %s years</string>
+  <string name="pie_description_format_male">Male population: %.2f%%\ \ \ Median age: %s years</string>
+  <string name="pie_data_label_female">Female population</string>
+  <string name="pie_data_label_male">Male population</string>
+  <string name="title_activity_maps">Census Map</string>
+  <string name="title_demographics">Demographics</string>
+  <string name="title_local_tweets">Tweets From This Area</string>
+  <string name="title_transportation">Modes of Transportation</string>
+</resources>
